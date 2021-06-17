@@ -4,7 +4,7 @@ div
     Header 
     router-view
     .app
-      // Sidebar with Dimmer
+      // Sidebar with Dimmer 
       .inset-0.flex.z-40
         // Sidebar
         .absolute.flex.top-0.h-screen.z-20(
