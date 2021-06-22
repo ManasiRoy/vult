@@ -3,6 +3,7 @@ div
   .container.mx-auto.app
     Header 
     router-view
+
     .app
       // Sidebar with Dimmer 
       .inset-0.flex.z-40
